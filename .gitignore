@@ -9,6 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+spooz-2622-firebase-adminsdk-i58g6-80f5c7d9af.json
 
 # macOS
 .DS_Store
