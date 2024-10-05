@@ -5,19 +5,19 @@ Brief description of your mobile application.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./images/I1.jpg))
+<img src="./images/I1.png" alt="Home Screen" width="300" height="600">
 
 ### Profile Screen
-![Profile Screen](./screenshots/profile_screen.png)
+<img src="./screenshots/profile_screen.png" alt="Profile Screen" width="300" height="600">
 
 ### Settings Screen
-![Settings Screen](./screenshots/settings_screen.png)
+<img src="./screenshots/settings_screen.png" alt="Settings Screen" width="300" height="600">
 
 ---
 
 ## How to Run
 
-Instructions to run the application (optional, but helpful if this is for a code repository).
+Instructions to run the application.
 
 1. Step 1
 2. Step 2
