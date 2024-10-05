@@ -4,6 +4,7 @@ Brief description of your mobile application.
 
 ## Screenshots
 
+<div style="display: flex; flex-direction: row;">
 ### Home Screen
 <img src="./images/I1.jpg" alt="Home Screen" width="300" height="600">
 
@@ -12,7 +13,7 @@ Brief description of your mobile application.
 
 ### Settings Screen
 <img src="./images/I3.jpg" alt="Settings Screen" width="300" height="600">
-
+</div>
 ---
 
 ## How to Run
