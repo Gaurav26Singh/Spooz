@@ -5,7 +5,7 @@ Brief description of your mobile application.
 ## Screenshots
 
 ### Home Screen
-<img src="./images/I1.png" alt="Home Screen" width="300" height="600">
+<img src="./images/I1.jpg)" alt="Home Screen" width="300" height="600">
 
 ### Profile Screen
 <img src="./screenshots/profile_screen.png" alt="Profile Screen" width="300" height="600">
